@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "force_api_base": "",
+  "force_api_key": "",
+  "allowed_api_list": [
+    {
+      "name": "默认供应商",
+      "base": ""
+    }
+  ],
+  "blocked_users": [],
+  "message": "",
+  "min_version": "2.0"
+}
